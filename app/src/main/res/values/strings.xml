@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Numeral System Converter</string>
+    <string name="trans">transform num</string>
+    <string name="source_system">Source System:</string>
+    <string name="destination_system">Destination System:</string>
+    <string name="number_to_convert">Number To Convert:</string>
+    <string name="ingrese_el_numero">Ingrese el numero</string>
+    <string name="convert">Convert</string>
+    <string name="details">Details</string>
+    <string name="results">Results:</string>
+
+    <string-array name="transformaciones">
+        <item>Binario</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+        <item>Decimal</item>
+    </string-array>
+</resources>
